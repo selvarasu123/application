@@ -1,1 +1,2 @@
 FileA
+changes to file A
