@@ -1,2 +1,3 @@
 FileA
 changes to file A
+making another change
